@@ -5,6 +5,6 @@
         "--extension-pkg-whitelist=cv2,wx,win32api,win32file,win32process"
     ],
     "python.terminal.activateEnvironment": false,
-    "python.pythonPath": "D:\\Anaconda3\\python.exe",
+    "python.pythonPath": "D:\\Anaconda3\\envs\\opencv\\python.exe",
     "python.linting.pep8Enabled": true
 }
